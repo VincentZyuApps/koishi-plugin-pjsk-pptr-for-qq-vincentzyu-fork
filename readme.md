@@ -2,8 +2,6 @@
 
 # koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork
 
-![koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork](https://socialify.git.ci/VincentZyuApps/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork/image?custom_description=%F0%9F%8E%A8+%E7%94%9F%E6%88%90+Project+SEKAI+%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87+%F0%9F%96%BC%EF%B8%8F%E2%9C%A8&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff3%2FKoishi.js_Logo.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
-
 [![npm](https://img.shields.io/npm/v/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork)
 [![npm-download](https://img.shields.io/npm/dm/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork)
 
