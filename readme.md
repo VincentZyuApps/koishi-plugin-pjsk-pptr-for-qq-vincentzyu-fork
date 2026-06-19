@@ -1,3 +1,5 @@
+![koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork](https://socialify.git.ci/VincentZyuApps/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork/image?custom_description=&description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff3%2FKoishi.js_Logo.png%3F_%3D20230331182243&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+
 # koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork
 
 ![koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork](https://socialify.git.ci/VincentZyuApps/koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork/image?custom_description=%F0%9F%8E%A8+%E7%94%9F%E6%88%90+Project+SEKAI+%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87+%F0%9F%96%BC%EF%B8%8F%E2%9C%A8&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff3%2FKoishi.js_Logo.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
@@ -11,11 +13,11 @@
 [![Koishi Forum](https://img.shields.io/badge/Koishi论坛-5546A3?style=for-the-badge&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff3%2FKoishi.js_Logo.png&logoColor=white)](https://forum.koishi.xyz/t/topic/12076/3)
 [![QQ群](https://img.shields.io/badge/QQ群-259248174-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/4vjto4V7Di)
 
-<p><del>💬 请加群 <b>956758505</b>（上游作者群，已与我无关）</del></p>
-<p>💬 插件使用问题 / 🐛 Bug反馈 / 👨‍💻 插件开发交流，欢迎加入QQ群：<b>1085190201</b> 🎉</p>
+<p><del>💬 插件使用问题 / 🐛 Bug反馈 / 👨‍💻 插件开发交流，欢迎加入QQ群：<b>259248174</b>   🎉（这个群G了）</del></p> 
+<p>💬 插件使用问题 / 🐛 Bug反馈 / 👨‍💻 插件开发交流，欢迎加入新QQ群：<b>1085190201</b> 🎉</p>
 <p>💡 在群里直接艾特我，回复的更快哦~ ✨</p>
 
-Koishi 的 Project SEKAI (PJSK) 表情包绘制插件，基于 Puppeteer 渲染 Canvas 生成表情包，额外支持 QQ 官方 Bot 原生 Markdown 和 mqqapi 快捷指令。
+🎨 Koishi 的 pjsk(Project SEKAI 世界计划) 表情包绘制插件，额外支持 🤖 QQ 官 Bot 平台的原生 MD 和 mqqapi ✨
 
 ## 安装
 
@@ -25,7 +27,7 @@ yarn add koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork
 npm install koishi-plugin-pjsk-pptr-for-qq-vincentzyu-fork
 ```
 
-或在 Koishi 控制台的插件市场中搜索安装。
+或在 Koishi 控制台的插件市场中搜索`pjsk-pptr-for-qq-vincentzyu-fork`安装。
 
 ## 前置依赖
 
